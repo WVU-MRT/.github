@@ -2,7 +2,7 @@
 
 <div align="center">
 <kbd>
-<img src="https://i.imgur.com/Uu0jaUg.png" style="border: 2px solid  gray; border-radius:15px" width="400">
+<img src="https://i.imgur.com/Uu0jaUg.png" width="400">
 </kbd>
 </div>
 
