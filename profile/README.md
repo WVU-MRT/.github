@@ -1,8 +1,9 @@
 # Welcome to the Official WVU Microgravity Research Team GitHub!
-
+<kbd>
 <div align="center">
 <img src="https://i.imgur.com/Uu0jaUg.png" width="400">
 </div>
+</kbd>
 
 # 
 
