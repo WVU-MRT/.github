@@ -1,4 +1,4 @@
-# Welcome to the Official WVU Microgravity Research Team GitHub!
+# Welcome to WVU's Microgravity Research Team GitHub!
 
 <div align="center">
 <kbd>
