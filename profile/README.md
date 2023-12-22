@@ -6,4 +6,4 @@
 
 # 
 
-This repository contains all of the code developed by West Virginia university's microgravity research team from early 2021 to the present day (encompassing MRT 18 & 19). For access/pull requests, please email cjstarvaggi@gmail.com.
+This organization contains the code repositories of West Virginia university's microgravity research teams 18 and 19. To join, please email cjstarvaggi@gmail.com.
